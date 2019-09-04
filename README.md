@@ -1,2 +1,2 @@
 # GitTestRepo
-Repo to test git commands
+Repo to test some git commands
